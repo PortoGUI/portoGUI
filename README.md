@@ -24,8 +24,6 @@
   
   <img align="center" alt="Node.js" title="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  
-  <img style="border-top:50px;" align="right"  width="160" src="https://media4.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e476c3dwjfa7pcqcsrhu2x5vm97wckundsepxe2l57l&rid=giphy.gif&ct=g"/>
 </div>
 
   ##
