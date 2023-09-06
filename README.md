@@ -29,6 +29,5 @@
   ##
 
 <div>
-  <a href="http://lnnk.in/c8eb"><img  alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/static/v1?label=📱 &message=Whatsapp&color=34af23"></a>
   <a href="https://www.linkedin.com/in/guilherme-da-silva-porto-36835624a"><img  alt="Linkedin" title="Linkedin" src="https://img.shields.io/static/v1?label=👨‍💻 &message=Linkedin&color=007bb6"></a>
 </div>
