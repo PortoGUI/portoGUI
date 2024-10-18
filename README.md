@@ -29,5 +29,6 @@
   <img align="center" alt="MicrosoftSQLServer" title="MicrosoftSQLServer" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Delphi" title="Delphi" width="30" src="https://www.svgrepo.com/show/373548/delphi.svg"/>
 </div>
+<img align="center" alt="Linux" title="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   ##
