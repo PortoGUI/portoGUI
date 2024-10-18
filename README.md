@@ -16,7 +16,7 @@
   
   <img align="center" alt="Angular" title="Angular" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
   <img align="center" alt="Angular Material" title="Angular Material" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
-  <img align="center" alt="Ant Design" title="Ant Design" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" />        
+<img align="center" alt="Ant Design" title="Ant Design" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />       
   <img align="center" alt="RXJS" title="RXJS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />        
   <img align="center" alt="HTML5" title="HTML5" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="center" alt="GitLab" title="GitLab" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />  
