@@ -27,7 +27,7 @@
   <img align="center" alt="DBeaver" title="DBeaver" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   <img align="center" alt="PostgreSQL" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="MicrosoftSQLServer" title="MicrosoftSQLServer" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="Delphi" title="Delphi" width="30" fill="red" src="https://www.svgrepo.com/show/473584/delphi.svg"/>
+  <img align="center" alt="Delphi" title="Delphi" width="30" src="https://www.svgrepo.com/show/473584/delphi.svg](https://www.svgrepo.com/show/373548/delphi.svg)"/>
 </div>
 
   ##
