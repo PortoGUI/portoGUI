@@ -26,7 +26,7 @@
   <img align="center" alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="DBeaver" title="DBeaver" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   <img align="center" alt="PostgreSQL" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="MicrosoftSQLServer" title="MicrosoftSQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="MicrosoftSQLServer" title="MicrosoftSQLServer" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="cewnter" alt="Delphi" title="Delphi" width="30" fill="red" src="https://www.svgrepo.com/show/473584/delphi.svg"/>
 </div>
 
